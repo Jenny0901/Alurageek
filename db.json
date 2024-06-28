@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "nombre": "Camisa-1",
+      "precio": "38.000",
+      "img": "./img/camisa-1.jpg",
+      "id": "1"
+    },
+    {
+      "nombre": "Camisa-2",
+      "precio": "15.000",
+      "img": "./img/camisa-2.jpg",
+      "id": "2"
+    },
+    {
+      "nombre": "Camisa-3",
+      "precio": "25.000",
+      "img": "./img/camisa-3.jpg",
+      "id": "3"
+    },
+    {
+      "nombre": "Pantalon-1",
+      "precio": "40.000",
+      "img": "./img/pantalon-2.png",
+      "id": "4"
+    },
+    {
+      "nombre": "Pantalon-2",
+      "precio": "70.000",
+      "img": "./img/pantalon-3.png",
+      "id": "5"
+    },
+    {
+      "nombre": "Zapatos-1",
+      "precio": "65.000",
+      "img": "./img/zapatos-1.png",
+      "id": "6"
+    },
+    {
+      "nombre": "Zapatos-2",
+      "precio": "45.000",
+      "img": "./img/zapatos-2.jpg",
+      "id": "7"
+    },
+    {
+      "nombre": "Zapatos-3",
+      "precio": "50.000",
+      "img": "./img/zapatos-3.png",
+      "id": "8"
+    }
+  ]
+}
